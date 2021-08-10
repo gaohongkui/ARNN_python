@@ -8,6 +8,8 @@
 
 Implement [Autoreservoir computing for multistep ahead prediction based on the spatiotemporal information transformation](https://www.nature.com/articles/s41467-020-18381-0) with Python. The code refers to the matlab program of the original author's [repo](https://github.com/RPcb/ARNN).
 
+If you find it useful, you are welcome to click **Star** in the upper right corner. 
+Thank you very much.
 
 ## Usage
 
